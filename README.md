@@ -12,5 +12,5 @@ Data analysis on my Spring 2022 Job Applications. See the `jobs` notebook for co
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/1731708/166748462-489302e0-eed6-481f-80ea-d44344176151.png />
+  <img src="https://user-images.githubusercontent.com/1731708/166748462-489302e0-eed6-481f-80ea-d44344176151.png" />
 </p>
